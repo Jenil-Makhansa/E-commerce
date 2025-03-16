@@ -48,8 +48,6 @@ and open another terminal on client directory
 npm run start
 ```
 
-Access the web app at http://localhost:3000/
-
 ### Deploying the backend server to render
 
 Follow these setps 👇👇
